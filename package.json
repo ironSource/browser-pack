@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "tap": "^10.7.2",
-    "uglify-js": "1.3.5",
+    "uglify-js": "2.6.0",
     "concat-stream": "~1.5.1",
     "convert-source-map": "~1.1.0",
     "parse-base64vlq-mappings": "~0.1.1"
